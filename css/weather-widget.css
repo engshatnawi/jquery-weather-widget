@@ -1,0 +1,43 @@
+.ww-container {
+	border: 1px solid #aaaaaa;
+    border-radius: 10px;
+	box-shadow: 5px 5px 5px #666666;
+    height: 140px;
+    left: calc(50% - 155px);
+    padding: 10px;
+    position: absolute;
+    width: 290px;
+}
+.ww-row {
+	clear: both;
+	width: 100%;
+	float: left;
+} 
+.ww-cell {
+	float: left;
+}
+.ww-location-row {
+	
+}
+.ww-crnt-cond-row {
+	
+}
+.ww-crnt-cond-row .ww-cell {
+	padding: 5px;
+}
+.ww-crnt-cond-row .ww-cell-crn-temp {
+	font-size: 50px;
+	font-weight: bold;
+}
+.ww-forecast-row {
+	
+}
+.ww-forecast-row .ww-cell {
+	border-left: 1px solid #aaaaaa;
+	width: calc(20% - 11px);
+	padding: 5px;
+	text-align: center;
+}
+.ww-forecast-row .ww-cell-first {
+	border: none;
+}
