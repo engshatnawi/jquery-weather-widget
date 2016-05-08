@@ -1,6 +1,6 @@
 /*
 * Weather Widget 
-* @Author Mohammad Shatnawi 5/8/2016 
+* @Author Mohammad Shatnawi 5/7/2016 
 */
 (function ( $ ) {
  
