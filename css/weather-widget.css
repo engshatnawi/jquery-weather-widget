@@ -1,12 +1,13 @@
 .ww-container {
 	border: 1px solid #aaaaaa;
-    border-radius: 10px;
+	border-radius: 10px;
 	box-shadow: 5px 5px 5px #666666;
-    height: 140px;
-    left: calc(50% - 155px);
-    padding: 10px;
-    position: absolute;
-    width: 290px;
+	height: 140px;
+	left: calc(50% - 155px);
+	top: calc(50% - 80px);
+	padding: 10px;
+	position: absolute;
+	width: 290px;
 }
 .ww-row {
 	clear: both;
